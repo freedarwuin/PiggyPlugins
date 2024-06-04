@@ -52,7 +52,7 @@ import javax.inject.Inject;
 
 
 @PluginDescriptor(
-        name = "<html><font color=\"#FF9DF9\">[PP]</font> Left Click Blackjack</html>",
+        name = "<html><font color=\"#FF9DF9\">[GS]</font> Left Click Blackjack</html>",
         enabledByDefault = false,
         description = "Auto Swaps Menu Entry When You Blackjack Including Knocking Out And Pickpocketing Etc. Ported From xKylee's LeftClickBlackJack",
         tags = {"blackjack", "thieving", "pickpocketing", "piggy"}

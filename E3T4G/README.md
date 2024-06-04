@@ -5,7 +5,7 @@ Automation plugins for runelite
 # Discord
 https://discord.gg/kwYBYEg4uu
 
-# [PP]3T4G
+# [GS]3T4G
 
 **How to setup**:
 

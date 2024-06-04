@@ -5,7 +5,7 @@ Automation plugins for runelite
 # Discord
 https://discord.gg/kwYBYEg4uu
 
-# [PP]AutoRifts
+# [GS]AutoRifts
 
 **How to setup**:
 

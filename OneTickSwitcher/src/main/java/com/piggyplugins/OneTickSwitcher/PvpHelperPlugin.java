@@ -53,7 +53,7 @@ import java.util.function.Consumer;
 import java.util.stream.Collectors;
 
 @PluginDescriptor(
-        name = "<html><font color=\"#FF9DF9\">[PP]</font> PVP Helper</html>",
+        name = "<html><font color=\"#FF9DF9\">[GS]</font> PVP Helper</html>",
         description = ";)",
         enabledByDefault = false,
         tags = {"ethan", "piggy"}

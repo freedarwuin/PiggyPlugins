@@ -20,7 +20,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 @PluginDescriptor(
-        name = "<html><font color=\"#FF9DF9\">[PP]</font> Jad Auto Prayers</html>",
+        name = "<html><font color=\"#FF9DF9\">[GS]</font> Jad Auto Prayers</html>",
         description = "Automatically switches & flicks prayer at Jad (multiple jads not supported)",
         tags = {"ethan", "piggy"}
 )

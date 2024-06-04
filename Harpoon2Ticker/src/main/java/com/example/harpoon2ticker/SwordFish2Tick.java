@@ -29,7 +29,7 @@ import java.util.List;
 import java.util.Optional;
 
 @PluginDescriptor(
-        name = "<html><font color=\"#FF9DF9\">[PP]</font> SwordFish2Tick </html>",
+        name = "<html><font color=\"#FF9DF9\">[GS]</font> SwordFish2Tick </html>",
         enabledByDefault = false,
         tags = {"ethan"}
 )

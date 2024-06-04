@@ -1,4 +1,4 @@
-# [JR] Auto Chop
+# [GS] Auto Chop
 
 Automation plugins for runelite
 

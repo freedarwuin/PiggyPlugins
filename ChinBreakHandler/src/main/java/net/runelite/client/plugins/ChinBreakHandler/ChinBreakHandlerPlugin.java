@@ -65,7 +65,7 @@ import java.util.concurrent.TimeUnit;
 
 
 @PluginDescriptor(
-        name = "<html><font color=\"#FF9DF9\">[PP]</font> Chin Break Handler</html>",
+        name = "<html><font color=\"#FF9DF9\">[GS]</font> Chin Break Handler</html>",
         description = "Owain's Chin Break Handler ported to RuneLite & Extended",
         tags = {"ethan", "piggy", "break", "chin"}
 )

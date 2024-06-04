@@ -19,7 +19,7 @@ import net.runelite.client.plugins.PluginDescriptor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-@PluginDescriptor(name="<html><font color=\"#FF9DF9\">[PP]</font> Spoon Walk Under</html>", description="Use the hotkey to toggle the Walk Here menu option. While pressed you will Walk rather than interact with objects.", tags={"npcs", "items", "objects", "shift", "walk", "under", "walker"}, enabledByDefault=false)
+@PluginDescriptor(name="<html><font color=\"#FF9DF9\">[GS]</font> Spoon Walk Under</html>", description="Use the hotkey to toggle the Walk Here menu option. While pressed you will Walk rather than interact with objects.", tags={"npcs", "items", "objects", "shift", "walk", "under", "walker"}, enabledByDefault=false)
 public class ShiftClickWalkerPlugin
         extends Plugin {
     private static final Logger log = LoggerFactory.getLogger(ShiftClickWalkerPlugin.class);

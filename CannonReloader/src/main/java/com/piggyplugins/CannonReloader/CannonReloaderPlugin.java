@@ -40,7 +40,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 @PluginDescriptor(
-        name = "<html><font color=\"#FF9DF9\">[PP]</font> Cannon Reloader</html>",
+        name = "<html><font color=\"#FF9DF9\">[GS]</font> Cannon Reloader</html>",
         description = "Automatically reloads your cannon when out of cannonballs",
         enabledByDefault = false,
         tags = {"ethan", "piggy"}

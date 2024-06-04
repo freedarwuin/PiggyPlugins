@@ -5,7 +5,7 @@ Automation plugins for runelite
 # Discord
 https://discord.gg/kwYBYEg4uu
 
-# [PJ]AutoTrapper
+# [GS]AutoTrapper
 
 **How to setup**:
 

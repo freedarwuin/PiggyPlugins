@@ -12,7 +12,7 @@ import java.util.Random;
 import java.util.concurrent.Executors;
 
 @PluginDescriptor(
-        name = "<html><font color=\"#FF9DF9\">[PP]</font> NeverLog</html>",
+        name = "<html><font color=\"#7ecbf2\">[GS]</font> NeverLog</html>",
         description = "Enable this and you will never log out"
 )
 public class SixHourLogPlugin extends Plugin {

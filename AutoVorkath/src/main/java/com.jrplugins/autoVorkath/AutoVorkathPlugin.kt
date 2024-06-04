@@ -30,7 +30,7 @@ import kotlin.math.abs
 
 
 @PluginDescriptor(
-    name = "<html><font color=\"#9ddbff\">[JR]</font> Auto Vorkath </html>",
+    name = "<html><font color=\"#9ddbff\">[GS]</font> Auto Vorkath </html>",
     description = "JR - Auto vorkath",
     tags = ["vorkath", "auto", "auto prayer"],
     enabledByDefault = false

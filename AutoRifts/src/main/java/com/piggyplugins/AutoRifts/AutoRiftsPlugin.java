@@ -40,7 +40,7 @@ import java.util.*;
 import java.util.concurrent.ThreadLocalRandom;
 
 @PluginDescriptor(
-        name = "<html><font color=\"#FF9DF9\">[PP]</font> Auto Rifts</html>",
+        name = "<html><font color=\"#FF9DF9\">[GS]</font> Auto Rifts</html>",
         description = "Guardians of the Rift",
         enabledByDefault = false,
         tags = {"ethan", "piggy"}

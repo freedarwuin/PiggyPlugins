@@ -38,7 +38,7 @@ import java.util.Optional;
 import java.util.Set;
 
 @PluginDescriptor(
-        name = "<html><font color=\"#FF9DF9\">[PP]</font> Herb Cleaner</html>",
+        name = "<html><font color=\"#FF9DF9\">[GS]</font> Herb Cleaner</html>",
         description = "Automatically banks & cleans 10 herbs per game tick",
         enabledByDefault = false,
         tags = {"ethan", "piggy"}

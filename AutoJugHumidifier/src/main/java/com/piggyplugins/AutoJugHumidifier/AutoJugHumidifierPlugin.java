@@ -32,7 +32,7 @@ import java.util.Arrays;
 import java.util.Optional;
 
 @PluginDescriptor(
-        name = "<html><font color=\"#FF9DF9\">[PP]</font> Jug Filler</html>",
+        name = "<html><font color=\"#FF9DF9\">[GS]</font> Jug Filler</html>",
         description = "Humidify Jugs",
         enabledByDefault = false,
         tags = {"ethan", "piggy"}

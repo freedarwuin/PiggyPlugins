@@ -29,7 +29,7 @@ import static net.runelite.client.plugins.puzzlesolver.solver.PuzzleSolver.DIMEN
 
 @Slf4j
 @PluginDescriptor(
-        name = "<html><font color=\"#FF9DF9\">[PP]</font> Puzzle Box Solver</html>",
+        name = "<html><font color=\"#FF9DF9\">[GS]</font> Puzzle Box Solver</html>",
         description = "Solves puzzle boxes for you.",
         enabledByDefault = false,
         tags = {"ethan", "piggy", "plugin", "clue", "puzzle"}

@@ -1,4 +1,4 @@
-# [JR] Auto Leviathan Prayers
+# [GS] Auto Leviathan Prayers
 
 Automation plugins for runelite
 

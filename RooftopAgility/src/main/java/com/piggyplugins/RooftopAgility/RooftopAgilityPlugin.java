@@ -44,7 +44,7 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ThreadLocalRandom;
 
 @PluginDescriptor(
-        name = "<html><font color=\"#FF9DF9\">[PP]</font> Rooftop Agility</html>",
+        name = "<html><font color=\"#FF9DF9\">[GS]</font> Rooftop Agility</html>",
         description = "Partially ported iRooftops (by illumine), example of how ReflectBreakHandler can be used for chinbreakhandler",
         enabledByDefault = false,
         tags = {"ethan", "piggy", "rooftops", "agility"}

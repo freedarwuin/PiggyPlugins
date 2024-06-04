@@ -38,7 +38,7 @@ import net.runelite.client.util.HotkeyListener;
 import java.util.*;
 
 @PluginDescriptor(
-        name = "<html><font color=\"#FF9DF9\">[PP]</font> AutoCombat</html>",
+        name = "<html><font color=\"#FF9DF9\">[GS]</font> Auto Combat</html>",
         description = "Kills shit",
         enabledByDefault = false,
         tags = {"piggy", "plugin"}

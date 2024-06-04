@@ -25,7 +25,7 @@ import java.lang.reflect.InvocationTargetException;
 import java.util.Optional;
 
 @PluginDescriptor(
-        name = "<html><font color=\"#FF9DF9\">[PP]</font> Upkeep Plugin </html>",
+        name = "<html><font color=\"#FF9DF9\">[GS]</font> Upkeep Plugin </html>",
         description = "",
         enabledByDefault = false,
         tags = {"ethan"}

@@ -1,4 +1,4 @@
-# [JR] Auto Whisperer Prayers
+# [GS] Auto Whisperer Prayers
 
 Automation plugins for runelite
 

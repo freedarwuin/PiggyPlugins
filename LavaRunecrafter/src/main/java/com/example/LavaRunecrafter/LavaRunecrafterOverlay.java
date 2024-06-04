@@ -54,7 +54,7 @@ public class LavaRunecrafterOverlay extends OverlayPanel {
         double xpPerHour = expGained * 3600.0 / seconds;
 
         panelComponent.getChildren().add(TitleComponent.builder()
-                .text("[PP] Lava Runecrafter")
+                .text("[GS] Lava Runecrafter")
                 .color(Color.WHITE)
                 .build());
 

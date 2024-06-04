@@ -46,7 +46,7 @@ import net.runelite.client.ui.NavigationButton;
 import net.runelite.client.util.ImageUtil;
 
 @PluginDescriptor(
-        name = "<html><font color=\"#FF9DF9\">[PP]</font> Better Profiles</html>",
+        name = "<html><font color=\"#FF9DF9\">[GS]</font> Better Profiles</html>",
         enabledByDefault = false,
         description = "Allow for a allows you to easily switch between multiple OSRS Accounts - Ported by Piggy",
         tags = {"profile", "account", "login", "log in", "pklite"}

@@ -27,7 +27,7 @@ import static com.example.EthanApiPlugin.Collections.query.QuickPrayer.PROTECT_F
 
 
 @PluginDescriptor(
-        name = "<html><font color=\"#FF9DF9\">[PP]</font> NightmareHelper</html>",
+        name = "<html><font color=\"#FF9DF9\">[GS]</font> Nightmare Helper</html>",
         description = "",
         enabledByDefault = false,
         tags = {"ethan"}

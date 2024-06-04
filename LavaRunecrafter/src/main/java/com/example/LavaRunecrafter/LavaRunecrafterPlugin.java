@@ -42,7 +42,7 @@ import java.util.List;
 import java.util.concurrent.ThreadLocalRandom;
 
 @PluginDescriptor(
-        name = "<html><font color=\"#FF9DF9\">[PP]</font> Lava Runecrafter </html>",
+        name = "<html><font color=\"#FF9DF9\">[GS]</font> Lava Runecrafter </html>",
         description = "",
         enabledByDefault = false,
         tags = {"ethan"}

@@ -1,4 +1,4 @@
-# [JR] Auto Vorkath
+# [GS] Auto Vorkath
 
 Automation plugins for runelite
 

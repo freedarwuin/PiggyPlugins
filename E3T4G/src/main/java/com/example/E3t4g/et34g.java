@@ -30,7 +30,7 @@ import net.runelite.client.util.HotkeyListener;
 import java.util.Optional;
 
 @PluginDescriptor(
-        name = "<html><font color=\"#FF9DF9\">[PP]</font> 3t4g </html>",
+        name = "<html><font color=\"#FF9DF9\">[GS]</font> 3t4g </html>",
         description = "3 Tick 4 Granite by EthanVann, maintained by Piggy Plugins",
         enabledByDefault = false
 )

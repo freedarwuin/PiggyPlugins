@@ -18,7 +18,7 @@ import net.runelite.client.plugins.PluginDescriptor;
 import net.runelite.client.util.HotkeyListener;
 
 @PluginDescriptor(
-        name = "<html><font color=\"#FF9DF9\">[PP]</font> Speed Dart Maker</font>",
+        name = "<html><font color=\"#FF9DF9\">[GS]</font> Speed Dart Maker</font>",
         description = "Fletches up to 10 darts per tick",
         enabledByDefault = false,
         tags = {"ethan", "piggy"}

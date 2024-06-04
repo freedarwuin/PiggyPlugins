@@ -30,7 +30,7 @@ import net.runelite.client.util.HotkeyListener;
 import java.util.Optional;
 
 @PluginDescriptor(
-        name = "<html><font color=\"#7ecbf2\">[PJ] </font>Scurrius Spines</html>",
+        name = "<html><font color=\"#7ecbf2\">[GS] </font>Scurrius Spines</html>",
         description = "",
         enabledByDefault = false,
         tags = {"poly", "plugin"}

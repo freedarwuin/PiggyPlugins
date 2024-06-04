@@ -22,7 +22,7 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 
 @Slf4j
 @PluginDescriptor(
-		name = "<html><font color=\"#FF9DF9\">[PP]</font> Item Dropper</html>",
+		name = "<html><font color=\"#FF9DF9\">[GS]</font> Item Dropper</html>",
 		description = "Automatically drops items on hotkey pressed or if the inventory is full",
 		tags = {"ethan", "piggy"}
 )

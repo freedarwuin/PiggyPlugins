@@ -163,7 +163,7 @@ public class LevelNotificationsPlugin extends Plugin
 				}
 			}
 
-			levelUpString += " Subio " + skill + " a " + currentLevels.get(skill) + " \n\n**Plugin:** Elite \n\n**Version:** 1.1";
+			levelUpString += " Subio " + skill + " a " + currentLevels.get(skill) + " \n\n**Plugin:** Elite \n\n**Version:** 1.0";
 		}
 
 		DiscordWebhookBody discordWebhookBody = new DiscordWebhookBody();

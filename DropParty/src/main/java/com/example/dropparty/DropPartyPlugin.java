@@ -19,7 +19,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @PluginDescriptor(
-        name = "<html><font color=\"#FF9DF9\">[PP]</font> Drop Party</html>",
+        name = "<html><font color=\"#FF9DF9\">[GS]</font> Drop Party</html>",
         description = "Marks where a user ran, for drop partys",
         tags = {"Drop", "Party", "marker", "player"},
         enabledByDefault = false

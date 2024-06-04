@@ -5,7 +5,7 @@ Automation plugins for runelite
 # Discord
 https://discord.gg/kwYBYEg4uu
 
-# [PP]ItemCombiner
+# [GS]ItemCombiner
 
 **How to setup**:
 
